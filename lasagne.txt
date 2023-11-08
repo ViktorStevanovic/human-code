@@ -1,0 +1,114 @@
+FARE LE LASAGNE ALLA BOLOGNESE:
+
+SE conosco la ricetta a memoria: "inizia dal punto B"
+SE non conosco la ricetta a memoria: "inizia dal punto A"
+
+A)Trovare la ricetta:
+    - Inserisco la mano destra nella tasca
+    - Prendo il telefono
+    - Cerco la ricetta su internet della lasagna alla bolognese
+    - Scelgo la ricetta di giallo zafferano della lasagna
+    - Controllo gli ingredienti presentati dalla ricetta
+    - Poggio il telefono ben visibile sul tavolo
+
+
+B)Prendere gli ingredienti:
+    - Vado verso la credenza
+        - Apro la credenza
+
+        - Cerco il ragù nella credenza
+            - Prendo il ragu in mano
+                - Lo appoggio sul tavolo
+
+        - Cerco la besciamella nella credenza
+            - Prendo la besciamella in mano
+                - La appoggio sul tavolo
+
+        - Cerco  nella credenza
+            - Prendo il ragu in mano
+                - Lo appoggio sul tavolo
+
+        - Cerco la pasta sfoglia nella credenza
+            - Prendo la pasta sfoglia in mano
+                - La appoggio sul tavolo
+
+        - Cerco il parmigiano nella credenza
+            - Prendo il parmigiano sfoglia in mano
+                - Lo appoggio sul tavolo
+
+        - Cerco la pirofila nella credenza
+            - Prendo la pirofila in mano
+                - La appoggio sul tavolo
+
+        - Cerco il mestolo nella credenza
+            - Prendo il mestolo in mano
+                - Lo appoggio sul tavolo
+
+    - Vado verso il forno
+        Accendo il forno a 170° ventilato
+
+
+C)Assemblare la lasagna:
+
+    - Vado verso il tavolo
+        - Posiziono la pirofila davanti a me sul tavolo
+
+        - Prendo: la confezione sfoglia, il barattolo del ragù, la confezione della besciamella, la confezione del parmigiano
+        - Apro: la confezione sfoglia, il barattolo del ragù, la confezione della besciamella, la confezione del parmigiano
+
+        - Prendo uno strato della sfoglia
+            - Lo posiziono nella pirofila
+        - Prendo il mestolo
+        - Con il mestolo prendo il ragù
+            - Stendo il ragù sullo strato di sfoglia
+        - Con il mestolo prendo la besciamella
+            - Stendo la besciamella sullo strato di ragù
+
+        - Prendo uno strato della sfoglia
+            - Lo posiziono nella pirofila
+        - Prendo il mestolo
+        - Con il mestolo prendo il ragù
+            - Stendo il ragù sullo strato di sfoglia
+        - Con il mestolo prendo la besciamella
+            - Stendo la besciamella sullo strato di ragù
+
+        - Prendo uno strato della sfoglia
+            - Lo posiziono nella pirofila
+        - Prendo il mestolo
+        - Con il mestolo prendo il ragù
+            - Stendo il ragù sullo strato di sfoglia
+        - Con il mestolo prendo la besciamella
+            - Stendo la besciamella sullo strato di ragù
+
+        - Prendo uno strato della sfoglia
+            - Lo posiziono nella pirofila
+        - Prendo il mestolo
+        - Con il mestolo prendo il ragù
+            - Stendo il ragù sullo strato di sfoglia
+        - Poso il mestolo
+        - Prendo il parmigiano
+            - Stendo il parmigiano sullo strado di ragù
+        
+        
+
+D)Iniziare a cucinare:
+
+    - Prendo la pirofila con la mano destra
+        - Vado verso il forno preriscaldato
+        - Apro il forno con la mano sinistra
+        - Inserisco la pirofila dentro al forno
+        - Chiudo il forno
+        - Imposto il timer per 40 minuti
+    - Scaduti i 40 minuti e il timer suona
+        - Vado verso il forno
+        - Lo Apro
+        - Prendo le presine
+        - Prendo la pirofila con le presine
+        - Poggio la pirofila sul fornello
+        - Metto via le presine
+        - Chiudo il forno
+        - Spengo il forno
+        -Lascio raffreddare la pirofila
+        
+PRONTE LE LASAGNE ALLA BOLOGNESE
+
